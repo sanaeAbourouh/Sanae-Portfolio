@@ -1,34 +1,41 @@
-Sanae Abourouh | Personal Portfolio 💜
+# Sanae Abourouh | Personal Portfolio 💜
 
 Welcome to my personal portfolio repository!
 
-This website showcases my background, technical skills, projects, and professional journey as a Computer Science student with a strong interest in cybersecurity and software development.
+This website showcases my background, technical skills, projects, and professional journey as a Computer Science student with a strong interest in **cybersecurity** and **software development**.
 
-🌐 Live Website: [Visit My Portfolio](https://sanae-abourouh-portfolio.netlify.app/)
+🌐 **Live Website:** [Visit My Portfolio](https://sanae-abourouh-portfolio.netlify.app/)
 
-⸻
+---
 
-✨ Features
+## ✨ Features
 
-* 👩‍💻 Personal Introduction – An overview of my background and interests.
-* 🛠️ Technical Skills – Programming languages, tools, and technical knowledge.
-* 💻 Featured Projects – A showcase of selected academic and personal projects.
-* 📜 Certificates – My certifications and achievements.
-* 📬 Contact Section – Links to my professional profiles and contact form.
+- 👩‍💻 **Personal Introduction** – An overview of my background and interests.
+- 🛠️ **Technical Skills** – Programming languages, tools, and technical knowledge.
+- 💻 **Featured Projects** – A showcase of selected academic and personal projects.
+- 📜 **Certificates** – My certifications and achievements.
+- 📬 **Contact Section** – Links to my professional profiles and contact form.
+- 📱 **Responsive Design** – Adapted for desktop, tablet, and mobile screens.
+- ⚡ **Interactive Elements** – Navigation menu, expandable skills, and interactive components.
 
-⸻
+---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-* HTML5 – Website structure.
-* CSS3 – Styling and responsive layouts.
-* JavaScript – Interactive functionality.
-* Font Awesome – Icons.
-* Google Fonts – Typography.
+- **HTML5** – Website structure and content.
+- **CSS3** – Styling, layouts, animations, and responsive design.
+- **JavaScript** – Interactive functionality.
+- **Font Awesome** – Icons.
+- **Devicon** – Technology icons.
+- **Google Fonts** – Typography.
+- **Formspree** – Contact form integration.
+- **Netlify** – Website deployment.
 
-⸻
+---
 
-📁 Project Structure
+## 📁 Project Structure
+
+```text
 Sanae-Portfolio/
 │
 ├── images/
@@ -42,18 +49,42 @@ Sanae-Portfolio/
 ├── style.css
 ├── script.js
 └── README.md
+```
 
-⸻
+---
 
-🌐 Deployment
+## 🌐 Deployment
 
-The website is deployed using Netlify and is publicly accessible online.
+The website is deployed using **Netlify** and is publicly accessible online.
 
-⸻
+🔗 **[Visit My Portfolio](https://sanae-abourouh-portfolio.netlify.app/)**
 
-👩‍💻 About Me
+---
 
-I’m Sanae Abourouh, a Computer Science student at China Jiliang University, interested in cybersecurity, network security, and software development.
+## 👩‍💻 About Me
 
+I'm **Sanae Abourouh**, a Computer Science and Technology student at China Jiliang University.
 
-Made with 💜 by Sanae Abourouh.
+I'm interested in:
+
+- Cybersecurity and Network Security.
+- Software Development.
+- Web Development.
+- Technology and Continuous Learning.
+
+I'm continuously developing my technical skills, working on projects, and preparing for my future career in technology.
+
+---
+
+## 📬 Connect With Me
+
+- 💼 **LinkedIn:** [Sanae Abourouh](https://www.linkedin.com/in/sanae-abourouh-836331440/)
+- 🐙 **GitHub:** [sanaeAbourouh](https://github.com/sanaeAbourouh)
+- 🌐 **Portfolio:** [Visit My Website](https://sanae-abourouh-portfolio.netlify.app/)
+- ✉️ **Email:** sanaeabourouh@gmail.com
+
+---
+
+<p align="center">
+  Made with 💜 by <strong>Sanae Abourouh</strong>
+</p>
